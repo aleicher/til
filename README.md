@@ -8,6 +8,7 @@ A collection of things I learn day to day while working on projects
 ### Categories
 
 * [Docker](#docker)
+* [git](#git)
 * [MySQL](#mysql)
 * [postgres](#postgres)
 
@@ -19,6 +20,11 @@ A collection of things I learn day to day while working on projects
 - [Using multiple versions of the docker client](docker/using-multiple-versions-of-docker.md)
 - [Check if a container with a name is running](docker/check-if-docker-container-is-running.md)
 - [Count number of docker images available locally](docker/count-number-of-docker-images.md)
+
+### git
+
+- [pull all branches from remote](git/pull-all-branches.md)
+- [delete all local dead branches](git/delete-all-local-dead-branches.md)
 
 ### MySQL
 
